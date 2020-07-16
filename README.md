@@ -12,6 +12,8 @@ Further, the following list of restrictions is introduced:
 
 • Each object has some type.
 
+![alt text](screenshots/Filesystem_relational_data_model.JPG "Developed file system database relational model")
+
 The Create_DB_FileSystem_Linter.sql script creates a database and fills it with test data in accordance with the built relational data model of the developed file system.
 
 The Queries_DB_FileSystem_Linter script performs typical SQL operations:
